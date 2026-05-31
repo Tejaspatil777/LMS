@@ -2,6 +2,11 @@
 ## 📄 Project Report
 
 [View Project Report](./AI-Based-Learning-Platform-with-Smart-Study-Planner.pdf)
+## 🎥 Demo Videos
+
+- [Frontend Demo](video/AI%20Learning%20Platform%20Frontend%20-%20Brave%202026-05-31%2014-49-44.mp4)
+- [App.tsx Walkthrough](video/App.tsx%20-%20Lms%20-%20Visual%20Studio%20Code%20-%20Insiders%202026-05-31%2014-43-55.mp4)
+- [Database Demo](video/database.py%20-%20Lms%20-%20Visual%20Studio%20Code%20-%20Insiders%202026-05-31%2014-54-31.mp4)
 
 ## Learning Platform with Smart Study Planner (LMS)
 
