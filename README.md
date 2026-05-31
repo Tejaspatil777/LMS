@@ -1,4 +1,7 @@
 # Business Requirement Document
+## 📄 Project Report
+
+[View Project Report](./AI-Based-Learning-Platform-with-Smart-Study-Planner.pdf)
 
 ## Learning Platform with Smart Study Planner (LMS)
 
